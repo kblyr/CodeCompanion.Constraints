@@ -1,0 +1,1 @@
+dotnet pack src/Constraints --configuration Release --output ../.nuget_releases/

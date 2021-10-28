@@ -4,6 +4,18 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    
+    <!-- NuGet Package Info -->
+    <PackageId>CodeCompanion.Constraints</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>John Josua Paderon</Authors>
+    <Company>CodeCompanion Libraries</Company>
+    <Copyright>Copyright 2021 (c) John Josua Paderon</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/kblyr/CodeCompanion.Constraints</RepositoryUrl>
+    <Description>CodeCompanion.Constraints</Description>
+    <PackageIconUrl>https://raw.githubusercontent.com/kblyr/CodeCompanion.Constraints/main/assets/logo.png</PackageIconUrl>
+    <PackageReleaseNotes>https://github.com/kblyr/CodeCompanion.Constraints/releases/tag/v0.1.0</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
